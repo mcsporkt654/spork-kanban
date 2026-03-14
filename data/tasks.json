@@ -1,0 +1,66 @@
+{
+  "tasks": [
+    {
+      "id": "task-1",
+      "title": "Chicago Bears Lineup Viewer",
+      "description": "Build a site showing the Bears' current offensive and defensive depth chart / lineup.",
+      "status": "backlog",
+      "project": "Chicago Bears Lineup Site",
+      "priority": "normal",
+      "createdAt": "2026-03-14T17:07:00.000Z",
+      "updatedAt": "2026-03-14T17:07:00.000Z",
+      "notes": "Conner mentioned this on first session. Details TBD."
+    },
+    {
+      "id": "task-2",
+      "title": "iPhone Reminders Integration",
+      "description": "Set up two-way sync between Kanban tasks and Apple Reminders / iCloud so tasks appear on Conner's iPhone.",
+      "status": "backlog",
+      "project": "Spork Infrastructure",
+      "priority": "normal",
+      "createdAt": "2026-03-14T17:07:00.000Z",
+      "updatedAt": "2026-03-14T17:07:00.000Z",
+      "notes": "Phase 2 - reverse sync (iPhone → Kanban) needs heartbeat check design."
+    },
+    {
+      "id": "task-3",
+      "title": "Daily Morning Newsletter",
+      "description": "Automated daily newsletter covering OKC Thunder/Bears scores, M365/Copilot news, and an OpenClaw cool fact. Sent at 9am CST.",
+      "status": "done",
+      "project": "Newsletter",
+      "priority": "normal",
+      "createdAt": "2026-03-14T16:50:00.000Z",
+      "updatedAt": "2026-03-14T17:07:00.000Z",
+      "notes": "Cron job running. First edition sent March 14, 2026."
+    },
+    {
+      "id": "task-4",
+      "title": "Gmail + Google Drive Integration",
+      "description": "Connect sporkmcclawdbot@gmail.com via OAuth (gog CLI) for sending newsletters and accessing Drive.",
+      "status": "done",
+      "project": "Spork Infrastructure",
+      "priority": "normal",
+      "createdAt": "2026-03-14T16:33:00.000Z",
+      "updatedAt": "2026-03-14T16:38:00.000Z",
+      "notes": "OAuth complete. Gmail + Drive authorized."
+    },
+    {
+      "id": "task-5",
+      "title": "GitHub SSH Integration",
+      "description": "Set up SSH key auth and gh CLI for automated repo creation and pushes.",
+      "status": "done",
+      "project": "Spork Infrastructure",
+      "priority": "normal",
+      "createdAt": "2026-03-14T16:41:00.000Z",
+      "updatedAt": "2026-03-14T16:49:00.000Z",
+      "notes": "SSH configured. Account: mcsporkt654. All future projects auto-pushed."
+    }
+  ],
+  "projects": [
+    "Spork Infrastructure",
+    "Newsletter",
+    "Chicago Bears Lineup Site",
+    "Web Apps",
+    "AI Exploration"
+  ]
+}
