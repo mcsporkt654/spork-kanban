@@ -54,6 +54,18 @@
       "createdAt": "2026-03-14T16:41:00.000Z",
       "updatedAt": "2026-03-14T16:49:00.000Z",
       "notes": "SSH configured. Account: mcsporkt654. All future projects auto-pushed."
+    },
+    {
+      "id": "task-6",
+      "title": "Google Calendar Integration",
+      "description": "Add calendar scope to the gog OAuth setup for sporkmcclawdbot@gmail.com so Spork can check upcoming events during heartbeats.",
+      "status": "backlog",
+      "assignee": "Conner",
+      "project": "Spork Infrastructure",
+      "priority": "normal",
+      "createdAt": "2026-03-15T17:33:00.000Z",
+      "updatedAt": "2026-03-15T17:33:00.000Z",
+      "notes": "Needs Conner to re-auth gog with calendar scope. Current token has insufficientPermissions for calendar. Run: gog auth (add calendar scope)."
     }
   ],
   "projects": [
