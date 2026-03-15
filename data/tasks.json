@@ -4,12 +4,12 @@
       "id": "task-1",
       "title": "Chicago Bears Lineup Viewer",
       "description": "Build a site showing the Bears' current offensive and defensive depth chart / lineup.",
-      "status": "backlog",
+      "status": "done",
       "project": "Chicago Bears Lineup Site",
       "priority": "normal",
       "createdAt": "2026-03-14T17:07:00.000Z",
-      "updatedAt": "2026-03-14T17:07:00.000Z",
-      "notes": "Conner mentioned this on first session. Details TBD."
+      "updatedAt": "2026-03-15T18:53:00.000Z",
+      "notes": "Completed. Live at http://192.168.0.103:3458 on local network."
     },
     {
       "id": "task-2",
@@ -66,6 +66,18 @@
       "createdAt": "2026-03-15T17:33:00.000Z",
       "updatedAt": "2026-03-15T17:33:00.000Z",
       "notes": "Needs Conner to re-auth gog with calendar scope. Current token has insufficientPermissions for calendar. Run: gog auth (add calendar scope)."
+    },
+    {
+      "id": "task-7",
+      "title": "Bears Lineup Viewer - Player Headshots + League Stats",
+      "description": "Upgrade Bears Viewer with: (1) player headshot/avatar images styled like Sleeper app, (2) per-player stats showing how they rank vs league peers at same position.",
+      "status": "in-progress",
+      "assignee": "Spork",
+      "project": "Chicago Bears Lineup Site",
+      "priority": "normal",
+      "createdAt": "2026-03-15T18:53:00.000Z",
+      "updatedAt": "2026-03-15T18:53:00.000Z",
+      "notes": "Sleeper-style card layout with headshots. Stats sourced from public NFL data. Estimate: 45-60 min."
     }
   ],
   "projects": [
