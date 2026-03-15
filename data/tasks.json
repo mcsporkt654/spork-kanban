@@ -71,13 +71,13 @@
       "id": "task-7",
       "title": "Bears Lineup Viewer - Player Headshots + League Stats",
       "description": "Upgrade Bears Viewer with: (1) player headshot/avatar images styled like Sleeper app, (2) per-player stats showing how they rank vs league peers at same position.",
-      "status": "in-review",
+      "status": "done",
       "assignee": "Spork",
       "project": "Chicago Bears Lineup Site",
       "priority": "normal",
       "createdAt": "2026-03-15T18:53:00.000Z",
-      "updatedAt": "2026-03-15T19:00:00.000Z",
-      "notes": "Completed. Sleeper-style cards with ESPN headshots + league stats. Live at http://192.168.0.103:3458"
+      "updatedAt": "2026-03-15T19:11:00.000Z",
+      "notes": "Complete. All 15 headshots verified via ESPN roster API. Stats pills live. http://192.168.0.103:3458"
     }
   ],
   "projects": [
