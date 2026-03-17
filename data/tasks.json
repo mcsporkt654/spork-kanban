@@ -83,13 +83,13 @@
       "id": "task-8",
       "title": "Overcast Gaming \u2014 Warhammer 40K League Site",
       "description": "Build a website for Overcast Gaming (Portland, OR), a Warhammer 40K league. Needs: player roster (photo, name, armies), match stats table (Goonhammer-style: who played what army, vs who, win/loss), win rates, merch link, and an easy admin UI to add games and players without touching code.",
-      "status": "in-review",
+      "status": "done",
       "assignee": "Spork",
       "project": "Web Apps",
       "priority": "normal",
       "createdAt": "2026-03-16T03:39:00.000Z",
-      "updatedAt": "2026-03-16T03:48:00.000Z",
-      "notes": "First pass complete. Live at http://192.168.0.103:3459. GitHub: https://github.com/mcsporkt654/overcast-gaming. Admin password: overcast40k."
+      "updatedAt": "2026-03-17T00:51:00.000Z",
+      "notes": "Approved by Conner. Live at http://192.168.0.103:3459. Logo update pending."
     }
   ],
   "projects": [
